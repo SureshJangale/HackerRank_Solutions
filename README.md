@@ -5,4 +5,5 @@ Solutions for Algorithms problems on HackerRank
 
 1. Arrays Left Rotation 
 2. New Year Chaos
+3. A Very Big Sum
 
